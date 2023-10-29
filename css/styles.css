@@ -1,0 +1,27 @@
+* {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.title {
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #84BEC8;
+    font-size: 3rem;
+    z-index: 4;
+    opacity: 0;
+    user-select: none;
+}
+
+canvas {
+    position: absolute;
+    z-index: 0;
+    opacity: 0;
+}
