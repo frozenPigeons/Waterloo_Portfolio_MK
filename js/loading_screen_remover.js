@@ -17,4 +17,5 @@ function loadEnder () {
         delay: 2,
         opacity: 1
     })
+
 }
