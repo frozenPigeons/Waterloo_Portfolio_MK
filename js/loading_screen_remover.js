@@ -8,14 +8,13 @@ function loadEnder () {
     gsap.timeline()
 
     .to('canvas', {
-        duration: 5,
+        duration: 3,
         zIndex: 3,
     })
 
     .to('canvas', {
-        duration: 5,
-        delay: 2,
+        duration: 3,
+        delay: 3,
         opacity: 1
     })
-
 }

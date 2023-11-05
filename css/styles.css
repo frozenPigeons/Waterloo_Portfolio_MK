@@ -10,10 +10,10 @@ body {
 
 .title {
     position: absolute;
-    top: 42%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #84BEC8;
+    color: rgb(255, 0, 0);
     font-size: 3rem;
     z-index: 4;
     opacity: 0;
