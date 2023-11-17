@@ -8,5 +8,3 @@ My main tools included:
   - Threejs/WebGL (3D Javascript Library)
   - Blender (3D Software)
   - and Visual Studio Code
-
-This portfolio aims to outline my artistic abilities while connecting the bridge between my interests and my passion!
