@@ -13,8 +13,8 @@ function loadEnder () {
     })
 
     .to('canvas', {
-        duration: 3,
-        delay: 3,
+        duration: 2,
+        delay: 1.09,
         opacity: 1
     })
 }

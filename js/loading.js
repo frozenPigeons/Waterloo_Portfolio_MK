@@ -27,7 +27,7 @@ Pace.on('done', () => {
 
     .to('.title', {
         duration: 1,
-        delay: 3.25,
+        delay: 1.25,
         y: -10,
         opacity: 1,
     }, "-=2.5")
