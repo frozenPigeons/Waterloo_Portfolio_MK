@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/84/three.min.js';
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
